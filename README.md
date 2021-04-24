@@ -10,3 +10,7 @@ A simple and beautiful task list created with React and EDgrid.
 - Git
 - EDgrid
 - UX EDteam
+
+## Screenshot
+
+![Task list screen](https://i.imgur.com/oeGTzLp.png)
