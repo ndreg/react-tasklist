@@ -1,0 +1,16 @@
+body {
+  background: var(--body-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: var(--dark-color-alt);
+}
+
+.task-form {
+  width: 400px;
+  border: 0.5px solid var(--border-color);
+  border-radius: 0.25rem;
+}
